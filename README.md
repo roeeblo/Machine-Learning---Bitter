@@ -1,10 +1,6 @@
-#Submitters:
 
-**Oren Ilutowich 318901303**
-**Roee Bloch 318846722**
-
-
-#Start of Project:
+#Preferably use the google colab link to review
+https://colab.research.google.com/drive/1gL1YBxB3y2bT9K8sySth1oNnn_SwKHPe?usp=sharing
 
 
 ```python
