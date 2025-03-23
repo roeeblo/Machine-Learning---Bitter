@@ -2,6 +2,15 @@
 # Preferably use the google colab link to review
 https://colab.research.google.com/drive/1gL1YBxB3y2bT9K8sySth1oNnn_SwKHPe?usp=sharing
 
+## Overview
+This project focuses on analyzing a **Bitter dataset**, which contains information about various compounds and their bitterness levels. The goal is to explore the dataset, preprocess the data, normalize the dataset, in the most precise way possible
+
+---
+
+## Features
+### • **Data Prepearation**: Handle missing values, categorical variables, and normalize data.  
+### • **Exploratory Data Analysis (EDA)**: Visualize data distributions and relationships.
+
 
 ```python
 import pandas as pd
@@ -19,7 +28,7 @@ df = pd.read_csv('Bitter.csv')
 ```
     
 
-#Understanding the DataFrame for it's preperation
+# Understanding the DataFrame for it's preperation
 We decided not to display data visualizations at this stage because the dataset is too large, making it difficult to find any meaningful patterns with the human eye.
 
 
