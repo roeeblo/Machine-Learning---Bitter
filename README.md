@@ -11,6 +11,7 @@ This project focuses on analyzing a **Bitter dataset**, which contains informati
 ### • **Data Prepearation**: Handle missing values, categorical variables, and normalize data.  
 ### • **Exploratory Data Analysis (EDA)**: Visualize data distributions and relationships.
 
+---
 
 ```python
 import pandas as pd
