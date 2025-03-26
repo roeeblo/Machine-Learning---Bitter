@@ -1,6 +1,6 @@
 
 # Preferably use the google colab link to review
-https://colab.research.google.com/drive/1gL1YBxB3y2bT9K8sySth1oNnn_SwKHPe?usp=sharing
+[https://colab.research.google.com/drive/1gL1YBxB3y2bT9K8sySth1oNnn_SwKHPe?usp=sharing](https://colab.research.google.com/drive/1u1TMk1jkldxZ-ITuC6XwcWg7u7-iUMvY)
 
 ## Overview
 This project focuses on analyzing a **Bitter dataset**, which contains information about various compounds and their bitterness levels. The goal is to explore the dataset, preprocess the data, normalize the dataset, in the most precise way possible.
